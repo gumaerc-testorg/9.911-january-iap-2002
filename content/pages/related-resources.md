@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to various National Institutes of Health
+  (NIH) web pages. The NIH provides a plethora of information on the practice and
+  ethics of research.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

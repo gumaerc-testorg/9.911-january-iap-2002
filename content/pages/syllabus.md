@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, purpose, format, and the final exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 5 sessions / 1 week, 2 hours / session
 Course Overview
 ---------------
 
-All MIT graduate students in Brain and Cognitive Sciences are required to take this course and pass a written exam in order to perform research on human subjects. Information about these requirements can be found on the web sites listed in the [related resources]({{< baseurl >}}/pages/related-resources) section.
+All MIT graduate students in Brain and Cognitive Sciences are required to take this course and pass a written exam in order to perform research on human subjects. Information about these requirements can be found on the web sites listed in the {{% resource_link 5b1d0c98-165f-12aa-f441-3786efa15b50 "related resources" %}} section.
 
 Purpose
 -------
