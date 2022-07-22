@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course text and the topics covered
+  by each chapter.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: badeac9c-4c6b-67dc-ba25-95e1d6247d2f
 ---

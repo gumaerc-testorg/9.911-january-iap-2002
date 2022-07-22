@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of daily topics for the week-long
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 683af87b-f624-da6e-43b3-ef8a0cb04bc0
 ---
